@@ -1,9 +1,9 @@
 <h1 align="center">Annyeonghaseyo! 👋, I'm Seongmin 👨🏻‍💻</h1>
-<h3 align="center">A mathematics and CS student from University of Toronto 🍁</h3>
+<h3 align="center">A mathematics and statistics student from University of Toronto 🍁</h3>
 
-- 🔭 I’m currently working on **Woodsworth College Orientation Website**
+- 🔭 I’m currently working on **improving my mental health**
 
-- 🌱 I’m currently learning **Javascript, React, Nodejs**
+- 🌱 I’m currently learning **Financial Machine Learning**
 
 - 📫 How to reach me **seongminc0119@gmail.com**
 
