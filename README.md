@@ -1,7 +1,7 @@
 <h1 align="center">Annyeonghaseyo! 👋, I'm Seongmin 👨🏻‍💻</h1>
 <h3 align="center">A mathematics and statistics student from University of Toronto 🍁</h3>
 
-- 🔭 I’m currently working on **improving my mental health**
+- 🔭 I’m currently working on **Project Alpha (QuantLab)**
 
 - 🌱 I’m currently learning **Financial Machine Learning**
 
