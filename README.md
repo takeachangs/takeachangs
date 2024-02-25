@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project Alpha (QuantLab)**
 
-- 🌱 I’m currently learning **Financial Machine Learning**
+- 🌱 I’m currently learning **Python Polars**
 
 - 📫 How to reach me **seongminc0119@gmail.com**
 
