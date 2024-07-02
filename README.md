@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project Alpha (QuantLab)**
 
-- 🌱 I’m currently learning **Python Polars**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **seongminc0119@gmail.com**
 
