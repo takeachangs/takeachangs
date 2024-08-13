@@ -1,4 +1,4 @@
-<h1 align="center">Annyeonghaseyo👋, I'm Seongmin 👨🏻‍💻</h1>
+<h1 align="center">Annyeonghaseyo 👋, I'm Seongmin 👨🏻‍💻</h1>
 <h3 align="center">A mathematics and statistics student from University of Toronto 🍁</h3>
 
 - 🔭 I’m currently working on **Spotify Recommendation System**
