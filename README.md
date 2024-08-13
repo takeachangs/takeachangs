@@ -1,13 +1,13 @@
-<h1 align="center">Annyeonghaseyo! 👋, I'm Seongmin 👨🏻‍💻</h1>
+<h1 align="center">Annyeonghaseyo👋, I'm Seongmin 👨🏻‍💻</h1>
 <h3 align="center">A mathematics and statistics student from University of Toronto 🍁</h3>
 
-- 🔭 I’m currently working on **DJ tools using Python**
+- 🔭 I’m currently working on **Spotify Recommendation System**
 
-- 🌱 I’m currently learning **Recommendation System**
+- 🌱 I’m currently learning **more data science tools**
 
 - 📫 How to reach me **seongminc0119@gmail.com**
 
-- ⚡ Fun fact **I love DJing!**
+- ⚡ Fun fact **I foster cats sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
