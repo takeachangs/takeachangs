@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **AI Reseacher at Yonsei University**
 
-- 🌱 I’m currently learning **more data science tools**
+- 🌱 I’m currently learning **multiagent system**
 
 - 📫 How to reach me **seongminc0119@gmail.com**
 
